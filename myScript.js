@@ -60,5 +60,4 @@ function initializeGrid() {
 
 }
 
-
-initializeGrid();
+createGrid(16);
